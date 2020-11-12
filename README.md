@@ -1,2 +1,2 @@
-# machine-learning-with-airbnb-data
-Machine learning with Python - Nearest Neighbors used on Airbnb data
+# Machine Learning in Python with use of Linear Regression, Nearest Neighbours Kfold
+
